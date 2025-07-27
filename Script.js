@@ -86,9 +86,10 @@ window.onload = createConfetti;
 function playSurprise() {
   document.getElementById('bgMusic').play();
   alert('🎉 Enjoy your birthday surprise!');
+}
 function redirectToLogin() {
   window.location.href = "login.html";
 }
 
 
-}
+
