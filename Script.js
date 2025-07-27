@@ -82,11 +82,7 @@ function createConfetti() {
 
 window.onload = createConfetti;
 
-// 🔊 Music
-function playSurprise() {
-  document.getElementById('bgMusic').play();
-  alert('🎉 Enjoy your birthday surprise!');
-}
+
 function redirectToLogin() {
   window.location.href = "login.html";
 }
