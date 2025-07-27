@@ -82,10 +82,10 @@ function createConfetti() {
 
 window.onload = createConfetti;
 
-
-function redirectToLogin() {
-  window.location.href = "login.html";
+function redirectToWish() {
+  window.location.href = "wish.html";
 }
+
 
 
 
