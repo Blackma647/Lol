@@ -53,3 +53,16 @@ canvas {
   0% { opacity: 0; transform: translateY(-20px);}
   100% { opacity: 1; transform: translateY(0);}
 }
+#makeWishBtn {
+  padding: 12px 24px;
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+#makeWishBtn:hover {
+  background-color: #ff1493;
+}
