@@ -82,9 +82,7 @@ function createConfetti() {
 
 window.onload = createConfetti;
 
-function redirectToWish() {
-  window.location.href = "wish.html";
-}
+
 
 
 
